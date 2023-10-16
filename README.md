@@ -59,31 +59,31 @@ Eclipse, Oracle, VSCode, Tomcat
 
 <br>
 
-[✅메인페이지](https://github.com/hyunzero0/HiFive_market/tree/dev/semi-hifive/src/main/java/com/semi/main) : 메인 카테고리 이동, 오늘의 경기, 팀 순위, 헤더, 푸터
+[✅메인페이지](https://github.com/hyunzero0/lolcogg/blob/main/src/main/java/gg/lolco/controller/MainPageController.java) : 메인 카테고리 이동, 오늘의 경기, 팀 순위, 헤더, 푸터
 
-[회원관리](https://github.com/hyunzero0/HiFive_market/tree/dev/semi-hifive/src/main/java/com/semi/member) : 회원가입(이메일 인증, 카카오톡, 네이버), 로그인, 비밀번호 찾기
+[회원관리](https://github.com/hyunzero0/lolcogg/blob/main/src/main/java/gg/lolco/controller/MemberController.java) : 회원가입(이메일 인증, 카카오톡, 네이버), 로그인, 비밀번호 찾기
 
-[마이페이지](https://github.com/hyunzero0/HiFive_market/tree/dev/semi-hifive/src/main/java/com/semi/mypage) : 내 정보 보기, 포인트 내역, 응원팀/칭호 변경, 비밀번호 변경, 회원탈퇴
+[마이페이지](https://github.com/hyunzero0/lolcogg/blob/main/src/main/java/gg/lolco/controller/MypageController.java) : 내 정보 보기, 포인트 내역, 응원팀/칭호 변경, 비밀번호 변경, 회원탈퇴
 
-[커뮤니티](https://github.com/hyunzero0/HiFive_market/tree/dev/semi-hifive/src/main/java/com/semi/sc) : 인기/최신글 조회, 실시간 인기글 순위, 글/댓글(조회/등록/수정/삭제)
+[커뮤니티](https://github.com/hyunzero0/lolcogg/blob/main/src/main/java/gg/lolco/controller/CommunityController.java) : 인기/최신글 조회, 실시간 인기글 순위, 글/댓글(조회/등록/수정/삭제)
 
-[LCK](https://github.com/hyunzero0/HiFive_market/tree/dev/semi-hifive/src/main/java/com/semi/productregist): 팀데이터 조회, 경기일정 조회
+[LCK](https://github.com/hyunzero0/lolcogg/blob/main/src/main/java/gg/lolco/controller/TeamDataContorller.java): 팀데이터 조회, 경기일정 조회
 
-[✅승부예측](https://github.com/hyunzero0/HiFive_market/tree/dev/semi-hifive/src/main/java/com/semi/search): 주차별 경기 조회, 승부예측, 예측퍼센트 조회, 전체 적중률 랭킹, 나의 적중률 순위/랭킹 조회, 댓글 및 베스트댓글(조회/등록/수정/삭제), 댓글 좋아요/싫어요
+[✅승부예측](https://github.com/hyunzero0/lolcogg/blob/main/src/main/java/gg/lolco/controller/MatchPerdictionController.java): 주차별 경기 조회, 승부예측, 예측퍼센트 조회, 전체 적중률 랭킹, 나의 적중률 순위/랭킹 조회, 댓글 및 베스트댓글(조회/등록/수정/삭제), 댓글 좋아요/싫어요
 
-[포인트상점](https://github.com/hyunzero0/HiFive_market/tree/dev/semi-hifive/src/main/java/com/semi/productlist): 상품판매(랜덤 상품 판매), 상품정렬
+[포인트상점](https://github.com/hyunzero0/lolcogg/blob/main/src/main/java/gg/lolco/controller/StoreController.java): 상품판매(랜덤 상품 판매), 상품정렬
 
-[챔피언 벤 예측](https://github.com/hyunzero0/HiFive_market/tree/dev/semi-hifive/src/main/java/com/semi/productpage): 경기 밴픽 챔피언 예측
+[챔피언 벤 예측](https://github.com/hyunzero0/lolcogg/blob/main/src/main/java/gg/lolco/controller/ChampPredictController.java): 경기 밴픽 챔피언 예측
 
-[✅롤 퀴즈](https://github.com/hyunzero0/HiFive_market/tree/dev/semi-hifive/src/main/java/com/semi/shop): 롤 퀴즈 맞추기, 롤 음성 퀴즈 맞추기(랜덤 퀴즈)
+[✅롤 퀴즈](https://github.com/hyunzero0/lolcogg/blob/main/src/main/java/gg/lolco/controller/QuizController.java): 롤 퀴즈 맞추기, 롤 음성 퀴즈 맞추기(랜덤 퀴즈)
 
-[보너스 게임](https://github.com/hyunzero0/HiFive_market/tree/dev/semi-hifive/src/main/java/com/semi/admin): 이상형 월드컵, 밸런스 게임
+[보너스 게임](https://github.com/hyunzero0/lolcogg/blob/main/src/main/java/gg/lolco/controller/GameController.java): 이상형 월드컵, 밸런스 게임
 
-[카드](https://github.com/hyunzero0/HiFive_market/tree/dev/semi-hifive/src/main/java/com/semi/admin): 카드 조회, 카드 업적 조회 및 보상수령
+[카드](https://github.com/hyunzero0/lolcogg/blob/main/src/main/java/gg/lolco/controller/CardController.java): 카드 조회, 카드 업적 조회 및 보상수령
 
-[✅문의하기](https://github.com/hyunzero0/HiFive_market/tree/dev/semi-hifive/src/main/java/com/semi/admin): 문의(조회/등록/수정/삭제), 답변등록
+[✅문의하기](https://github.com/hyunzero0/lolcogg/blob/main/src/main/java/gg/lolco/controller/QnaController.java): 문의(조회/등록/수정/삭제), 답변등록
 
-[관리자 페이지](https://github.com/hyunzero0/HiFive_market/tree/dev/semi-hifive/src/main/java/com/semi/admin): 회원관리, 신고관리, 커뮤니티관리, 플레이관리, 상점관리, 공지사항
+[관리자 페이지](https://github.com/hyunzero0/lolcogg/blob/main/src/main/java/gg/lolco/controller/AdminController.java): 회원관리, 신고관리, 커뮤니티관리, 플레이관리, 상점관리, 공지사항
 
 <br>
 
